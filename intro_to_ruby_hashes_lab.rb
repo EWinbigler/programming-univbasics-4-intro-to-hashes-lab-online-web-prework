@@ -4,7 +4,7 @@ end
 
 def my_hash
   new_hash={
-    :name=>
+    :name=>"Bob"
   }
 end
 
